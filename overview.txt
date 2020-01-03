@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 a
 
 naver.git
 a
+=======
+aa
+
+updae over
+>>>>>>> e6e1a111711e9b70e98eae62476cc592fc7cdec1
